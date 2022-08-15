@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RUPAK-APPLY
+- 👋 Hi, I’m Rupak Ranjan Behera 
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Full Stack Java Developer 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 
 - 📫 You can reach me on rupak18492@gmail.com
 
 <!---
